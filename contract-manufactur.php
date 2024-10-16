@@ -47,7 +47,7 @@
               </div> -->
         </div>
         <div class="col-md-8 right-services">
-            <img src="assets/img/services/contract2.jpg" alt="Contract Manufactur" class="img-fluid">
+            <img src="assets/img/services/contract2.jpg" alt="Contract Manufactur" class="img-fluid radius">
             <h4>In PT. Medifarma Laboratories, we thrive to provide end-to-end services that can completely tailored to meet our customers’ requirements. We embrace limitless possibilities, so share your vision with us and we'll bring it to life.</h4>
         </div>
 

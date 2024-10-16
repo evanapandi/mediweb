@@ -74,11 +74,62 @@
             </div>
             <div class="swiper-slide">
               <div class="timelineitem">
-                <img src="assets/img/timeline/timeline1.jpg" alt="Medifarma Founder"class="img-fluid">
+                <img src="assets/img/timeline/timeline5.jpg" alt="Medifarma Founder"class="img-fluid">
                 <div class="timeline-desc">
-                  <h1>1970</h1>
-                  <h5>Founder</h5>
-                  <p>PT. Medifarma Laboratories was Officially established on September 26, 1970 by Mr.Jose Y. Campos and Sanoesi.</p>
+                  <h1>1988</h1>
+                  <h5>Plant Visit </h5>
+                  <p>Mr Jose Y Campos inside the Quality Assurance Area during his Plant visit  on March 11, 1988.</p>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="timelineitem">
+                <img src="assets/img/timeline/timeline6.jpg" alt="Medifarma Founder"class="img-fluid">
+                <div class="timeline-desc">
+                  <h1>1992</h1>
+                  <h5>Long Service Awards </h5>
+                  <p>Awarding of the long service awardee (10 , 15 and 20 years) during the year-end party.</p>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="timelineitem">
+                <img src="assets/img/timeline/timeline7.jpg" alt="Medifarma Founder"class="img-fluid">
+                <div class="timeline-desc">
+                  <h1>2007</h1>
+                  <h5>Commencement of the third renovation</h5>
+                  <p>Commencement of the third renovation of plant to meet the c-GMP / ASEAN GMP requirements, designed to be the Manufacturing Specialist for high volume solid dosage forms.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="timelineitem">
+                <img src="assets/img/timeline/timeline8.jpg" alt="Medifarma Founder"class="img-fluid">
+                <div class="timeline-desc">
+                  <h1>2017</h1>
+                  <h5>Medifarma received Bonded Zone</h5>
+                  <p>Medifarma became the first pharmaceutical company in Indonesia to receive a Bonded Zone certificate, allowing it to store and process imported goods for export.</p>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="timelineitem">
+                <img src="assets/img/timeline/timeline9.jpg" alt="Medifarma Founder"class="img-fluid">
+                <div class="timeline-desc">
+                  <h1>2018</h1>
+                  <h5>Medifarma received Bonded Zone</h5>
+                  <p>In 2018, Medifarma achieved four Halal certifications—limited free drug, free drug, hard drug, and supplement certificates—along with a Zero Accident certification for 5 million work hours.</p>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="timelineitem">
+                <img src="assets/img/timeline/timeline10.jpg" alt="Medifarma Founder"class="img-fluid">
+                <div class="timeline-desc">
+                  <h1>2022</h1>
+                  <h5>Mitra Bakti Husada Safety Award</h5>
+                  <p>Medifarma received Mitra Bakti Husada Safety Award at the National Level for the National Ministry/BUMN/National Private</p>
                 </div>
               </div>
             </div>

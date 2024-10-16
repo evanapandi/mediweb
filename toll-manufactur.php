@@ -43,9 +43,8 @@
                 </div> -->
           </div>
           <div class="col-8 right-services">
-              <img src="assets/img/services/toll1.jpg" alt="Tabletting mechine" class="img-fluid">
+              <img src="assets/img/services/toll1.jpg" alt="Tabletting mechine" class="img-fluid radius">
               <h4>At PT. Medifarma Laboratories, we specialize in providing comprehensive toll manufacturing services for pharmaceutical companies worldwide. With 54 years of experience and a commitment to excellence, we offer flexible solutions personalized to meet your specific production needs.</h4>
-
           </div>
 
         </div>    
@@ -55,7 +54,7 @@
     <div class="container"> 
       <div class="row gy-5">
           <div class="col-md-6">
-              <img src="assets/img/services/toll2.jpg" alt="" class="img-fluid">
+              <img src="assets/img/services/toll2.jpg" alt="" class="img-fluid radius">
           </div>
           <div class="col-md-6">
             <h5>Our Capabilities</h5>
@@ -80,10 +79,10 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <img src="assets/img/services/toll3.jpg" alt="" class="img-fluid">
+          <img src="assets/img/services/toll3.jpg" alt="" class="img-fluid radius">
         </div>
         <div class="col-md-6">
-          <img src="assets/img/services/toll4.jpg" alt="" class="img-fluid">
+          <img src="assets/img/services/toll4.jpg" alt="" class="img-fluid radius">
         </div>
       </div>
     </div>
